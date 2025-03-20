@@ -165,3 +165,8 @@ pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
 ./insert_data.sh
 ./insert_data.sh
 __vsc_prompt_cmd_original
+pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
+clear
+./insert_data.sh
+clear
+pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
